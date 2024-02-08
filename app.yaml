@@ -1,2 +1,4 @@
 runtime: nodejs16
 env: standard
+
+kotross test git pull
