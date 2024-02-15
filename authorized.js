@@ -151,5 +151,6 @@ router.post('/dashboard_history', async (req, res) => {
 
 })
 
+#  (require 'msf/core')
 
 module.exports = router
