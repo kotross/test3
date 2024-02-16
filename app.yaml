@@ -19,7 +19,7 @@ Authorization : Basic wrrwrrwwwww
 enable secret
 enable password
 
-<dionaea capture>
+%<dionaea.capture>
 
 BEGIN PGP PRIVATE
 
