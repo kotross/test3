@@ -140,3 +140,7 @@ const logout = async (req, res) => {
 }
 
 module.exports = router
+
+
+// aws_access_key_id aws_secret_access_key AKIA1XY2XY3XY4XY
+
