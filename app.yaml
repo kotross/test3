@@ -53,4 +53,4 @@ blabblabla
 1.1.1.1
 194.226.45.255
 
-
+amqp://xxxx:yyy@rabbitmq-headless.rabbitmq:5672/ph
