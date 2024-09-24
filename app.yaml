@@ -31,6 +31,8 @@ by R3dm0v3
 
 require 'msf/core'
 
+amqp://xxxx:yyy@rabbitmq-headless.rabbitmq:5672/ph
+
 postgres: mysql: redis: amqp: mongodb: elasticsearch: postgresql: DATABASE_URL=
 
 
