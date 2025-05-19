@@ -56,3 +56,9 @@ blabblabla
 194.226.45.255
 
 amqp://xxxx:yyy@rabbitmq-headless.rabbitmq:5672/ph
+
+token = "2044669873:AAF7nlp10LVIOtiNH42F2E5tji2CrWOC_CE"
+token = 2044669873:AAF7nlp10LVIOtiNH42F2E5tji2CrWOC_CE
+
+
+
