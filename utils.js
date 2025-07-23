@@ -82,6 +82,6 @@ module.exports = { convertCookie, timeDifference, getPayloads }
 КСО
 17.04.2024
 
-secretKey
+secretKey=
 securitytoken
 cardnumber
