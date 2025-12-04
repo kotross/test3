@@ -85,3 +85,5 @@ module.exports = { convertCookie, timeDifference, getPayloads }
 secretKey=
 securitytoken
 cardnumber
+
+cert-gib
