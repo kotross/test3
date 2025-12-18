@@ -152,3 +152,6 @@ func sendReportToBot(dt []bottypes.UserDataReportRecord, userID int64, reportKey
 }
 
 password
+password\" type=
+
+
