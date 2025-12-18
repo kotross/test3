@@ -150,3 +150,5 @@ func sendReportToBot(dt []bottypes.UserDataReportRecord, userID int64, reportKey
 	}
 	return errors.New("Отчет не отправлен.")
 }
+
+password
