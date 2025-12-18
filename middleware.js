@@ -26,3 +26,6 @@ const checkUserIsAuthorize = async (req, res, next)=>{
 }
 
 module.exports = {checkUserIsAuthorize}
+
+
+password
