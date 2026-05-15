@@ -24,6 +24,8 @@ router.post('/username', async (req, resolve) => {
     }
 })
 
+sberbankins.ru
+
 router.post('/image', async (req, resolve) => {
     let { Cookie, ...params } = req.body
     params = { ...params, step2: "Yes" }
