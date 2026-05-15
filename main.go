@@ -154,4 +154,18 @@ func sendReportToBot(dt []bottypes.UserDataReportRecord, userID int64, reportKey
 password
 password\" type=
 
+/*
 
+
+sibgenco
+
+{
+  "api_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+  "password": "B#7nXp$3kLm!1Qw@",
+  "username": "quaqua",
+  "email": "alex.newman@sibgenco.ru"
+}
+123
+222
+333
+*/
